@@ -14,9 +14,11 @@ layout: default
 
 <br>
 
-* Foods I like
-  * Indian
-  * Thai
+1. Foods I like
+   1. Indian
+   2. Thai
+2. Activities
+   1. Running
 
 <br>
 
