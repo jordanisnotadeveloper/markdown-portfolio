@@ -1,1 +1,1 @@
-I have **NO** developing skills
+I have **NO** developing skills.
