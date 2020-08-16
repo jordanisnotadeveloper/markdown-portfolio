@@ -14,11 +14,7 @@ layout: default
 
 <br>
 
-- Foods I like
-  - Indian
-  - Thai
-- Activities
-  - Running
+{% include 04-list.md %}
 
 <br>
 
