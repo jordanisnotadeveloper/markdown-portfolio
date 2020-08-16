@@ -14,11 +14,11 @@ layout: default
 
 <br>
 
-* Foods I like
-  * Indian
-  * Thai
-* Activities
-  * Running
+- Foods I like
+  - Indian
+  - Thai
+- Activities
+  - Running
 
 <br>
 
